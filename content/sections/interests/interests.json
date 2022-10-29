@@ -8,6 +8,13 @@
       }
     },
     {
+      "label": "UI Design",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Marketing Digital",
       "image": {
         "src": "../../images/rocket_1f680.png",
@@ -17,14 +24,7 @@
     {
       "label": "Transformação Digital",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "UI Design",
-      "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/high-voltage.png",
         "alt": ""
       }
     },
