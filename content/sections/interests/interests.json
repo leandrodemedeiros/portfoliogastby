@@ -1,6 +1,13 @@
 {
   "interests": [
     {
+      "label": "Frontend Dev",
+      "image": {
+        "src": "../../images/technologist_1f9d1-200d-1f4bb.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "UX Design",
       "image": {
         "src": "../../images/direct-hit_1f3af-2.png",
