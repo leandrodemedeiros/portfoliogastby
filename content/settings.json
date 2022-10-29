@@ -1,19 +1,19 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://portfoliogastby.gtsb.io/",
+    "title": "Leandro de Medeiros — Portfólio",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Este é meu portfólio.",
     "author": "Konstantin Münster",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Designer especialista em Gestão de Produto e Marketing Digital.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "https://www.behance.net/leandromedeiros7",
+      "github": "https://github.com/leandrodemedeiros",
+      "medium": "https://leandrodemedeiros.medium.com",
+      "linkedin": "https://www.linkedin.com/in/leomedeiros/",
+      "mail": "mailto:falecom@leandrodemedeiros.com.br"
     }
   },
   "siteConfiguration": {
