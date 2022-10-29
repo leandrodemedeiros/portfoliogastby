@@ -41,7 +41,7 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Amplitude",
         "url": "/resume.pdf"
       },
       "footer": [
