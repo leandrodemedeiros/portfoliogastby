@@ -1,6 +1,12 @@
 {
   "interests": [
     {
+      "label": "UX Research",
+      "image": {
+        "src": "../../images/person-with-crown_light-skin-tone_1fac5-1f3fb_1f3fb.png"
+      }
+    },
+    {
       "label": "UX Design",
       "image": {
         "src": "../../images/direct-hit_1f3af.png",
