@@ -1,6 +1,12 @@
 {
   "interests": [
     {
+      "label": "Jamstack",
+      "image": {
+        "src": "../../images/honey-pot_1f36f.png"
+      }
+    },
+    {
       "label": "UX Design",
       "image": {
         "src": "../../images/direct-hit_1f3af.png",
