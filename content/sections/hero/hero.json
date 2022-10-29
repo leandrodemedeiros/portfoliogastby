@@ -1,5 +1,5 @@
 {
-  "intro": "Oi!",
+  "intro": "Olá! Eu sou o Leandro.",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,7 +8,7 @@
     "src": "../../images/waving-hand.png",
     "alt": "Emoji de Oi"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Sou um designer brasileiro especialista em Design de Produto e Marketing Digital.",
   "subtitle": {
     "prefix": "I do all the setup ",
     "highlight": "for you",
