@@ -9,7 +9,9 @@
   "socialProfiles": {
     "from": [
       "LinkedIn",
-      "E-mail"
+      "Medium",
+      "Github",
+      "Mail"
     ],
     "showIcons": true
   }
