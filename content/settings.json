@@ -17,13 +17,27 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": {
+      "text": "Portfolio"
+    },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        {
+          "label": "Sobre mim",
+          "url": "/#about"
+        },
+        {
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "label": "Features",
+          "url": "/#features"
+        },
+        {
+          "label": "Github",
+          "url": "/#github"
+        }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -31,8 +45,14 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        {
+          "label": "Privacy",
+          "url": "/privacy"
+        },
+        {
+          "label": "Imprint",
+          "url": "/imprint"
+        }
       ]
     },
     "featureToggles": {
