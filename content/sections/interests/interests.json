@@ -1,6 +1,12 @@
 {
   "interests": [
     {
+      "label": "Adobe Creative Suite",
+      "image": {
+        "src": "../../images/sparkles_2728.png"
+      }
+    },
+    {
       "label": "UX Design",
       "image": {
         "src": "../../images/direct-hit_1f3af.png",
