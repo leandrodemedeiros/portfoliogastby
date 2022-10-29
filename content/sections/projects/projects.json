@@ -1,32 +1,10 @@
 {
   "projects": [
-    {
-      "visible": true,
-      "category": [
 
-      ],
-      "title": "Transformação Digital",
-      "tags": [
-        "Digital",
-        " Consultoria"
-      ],
-      "image": {
-        "src": "../../images/giu-vicente-fmarg2k3qou-unsplash.jpg",
-        "alt": "Transformação Digital",
-        "linkTo": "#"
-      },
-      "links": [
-        {
-          "url": "#",
-          "type": "Veja mais"
-        }
-      ],
-      "description": "Transformação digital é uma mudança de mentalidade que as empresas passam com o objetivo de modernizar seus processos e acompanhar os avanços tecnológicos que não param de surgir."
-    }
   ],
   "button": {
     "visible": true,
-    "label": "Ver outros projetos",
-    "url": "/projects"
+    "label": "Visite o site da Amplitude",
+    "url": "https://amplitudetecnologia.com.br"
   }
 }
