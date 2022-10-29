@@ -5,6 +5,6 @@
   "button": {
     "visible": true,
     "label": "Ver outros projetos",
-    "url": "/projetos"
+    "url": "/projects"
   }
 }
