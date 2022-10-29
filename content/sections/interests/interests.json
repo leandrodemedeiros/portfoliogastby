@@ -1,12 +1,6 @@
 {
   "interests": [
     {
-      "label": "Adobe Creative Suite",
-      "image": {
-        "src": "../../images/sparkles_2728.png"
-      }
-    },
-    {
       "label": "UX Design",
       "image": {
         "src": "../../images/direct-hit_1f3af.png",
@@ -14,16 +8,16 @@
       }
     },
     {
-      "label": "UI Design",
+      "label": "Marketing Digital",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/rocket_1f680.png",
         "alt": ""
       }
     },
     {
-      "label": "Marketing Digital",
+      "label": "UI Design",
       "image": {
-        "src": "../../images/rocket_1f680.png",
+        "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
@@ -44,6 +38,12 @@
       "label": "Figma",
       "image": {
         "src": "../../images/black-nib_2712-fe0f.png"
+      }
+    },
+    {
+      "label": "Adobe Creative Suite",
+      "image": {
+        "src": "../../images/light-bulb_1f4a1.png"
       }
     }
   ],
