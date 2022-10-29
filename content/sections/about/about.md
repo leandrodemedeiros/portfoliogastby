@@ -1,5 +1,5 @@
 ---
-imageSrc: '"https://leandrodemedeiros.github.io/portfolio/images/illustrations/home.png"'
+imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: Oi! :)
 
 ---
