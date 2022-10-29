@@ -1,12 +1,12 @@
 {
-  "intro": "Hej",
+  "intro": "Oi!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "alt": "Emoji de Oi"
   },
   "title": "I'm a Gatsby Starter",
   "subtitle": {
@@ -16,7 +16,12 @@
   },
   "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [
+      "LinkedIn",
+      "Medium",
+      "Github",
+      "Mail"
+    ],
     "showIcons": false
   }
 }
