@@ -6,15 +6,15 @@
         "🧰 CONSULTORIA EMPRESARIAL"
       ],
       "title": "Transformação Digital",
-      "description": "Mudança de mentalidade que as empresas precisam passar, com o objetivo de se tornarem mais modernas e acompanharem os avanços tecnológicos que não param de surgir.",
+      "description": "A mudança de mentalidade que as empresas precisam passar, com o objetivo de se tornarem mais modernas e acompanharem os avanços tecnológicos que não param de surgir.",
       "tags": [
         "Transformação digital",
         " Negócios"
       ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/giu-vicente-FMArg2k3qOU-unsplash.jpg",
+        "alt": "Transformação Digital",
+        "linkTo": "#"
       },
       "links": [
         {
