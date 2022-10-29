@@ -2,7 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
+      "category": [
+        "🧰 CONSULTORIA EMPRESARIAL"
+      ],
       "title": "Transformação Digital",
       "description": "Mudança de mentalidade que as empresas precisam passar, com o objetivo de se tornarem mais modernas e acompanharem os avanços tecnológicos que não param de surgir.",
       "tags": [
