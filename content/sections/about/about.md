@@ -1,5 +1,5 @@
 ---
-imageSrc: https://leandrodemedeiros.github.io/portfolio/images/illustrations/home.png
+imageSrc: '"https://leandrodemedeiros.github.io/portfolio/images/illustrations/home.png"'
 imageAlt: Oi! :)
 
 ---
