@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: https://webhook.gatsbyjs.com/hooks/data_source/ed64145f-a51e-4a2d-9b46-34c35f0b93b2
 sections:
 - type: document
-  path: src/pages
+  path: src/pages/index.js
   label: Landing
-  match: "**/*"
 - type: directory
   path: content
   label: Paginas
