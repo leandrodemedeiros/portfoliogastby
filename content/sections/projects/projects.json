@@ -8,7 +8,11 @@
         "Digital",
         " Consultoria"
       ],
-      "image": "",
+      "image": {
+        "src": "/content/images/ross-findon-mg28olyfghi-unsplash.jpg",
+        "alt": "Transformação Digital",
+        "linkTo": "#"
+      },
       "links": [
         {
           "url": "#",
