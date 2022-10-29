@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: About Gatsby Theme Portfolio Minimal
+imageAlt: Oi! Eu sou o Leandro.
 
 ---
 Olá! Me chamo Leandro, sou designer especialista em Gestão de Produto e Marketing Digital. Trabalho há 20 anos com design em produtos e serviços.
