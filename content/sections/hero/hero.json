@@ -1,5 +1,5 @@
 {
-  "intro": "Olá! Eu sou o Leandro.",
+  "intro": "Olá!",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,7 +8,7 @@
     "src": "../../images/waving-hand.png",
     "alt": "Emoji de Oi"
   },
-  "title": "Sou um designer brasileiro especialista em Design de Produto e Marketing Digital.",
+  "title": "Eu sou o Leandro.",
   "subtitle": {
     "prefix": "I do all the setup ",
     "highlight": "for you",
