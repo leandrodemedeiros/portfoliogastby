@@ -4,10 +4,13 @@
   "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
   "image": {
     "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "alt": "Leandro de Medeiros"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [
+      "LinkedIn",
+      "E-mail"
+    ],
     "showIcons": true
   }
 }
