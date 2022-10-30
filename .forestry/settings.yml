@@ -5,13 +5,13 @@ admin_path: ''
 webhook_url: https://webhook.gatsbyjs.com/hooks/data_source/ed64145f-a51e-4a2d-9b46-34c35f0b93b2
 sections:
 - type: directory
-  path: src/pages/index.js
-  label: Index
-  create: documents
+  path: src/pages
+  label: Paginas
+  create: all
   match: "**/*"
 - type: directory
   path: content
-  label: Conteudo
+  label: Conteudo Geral
   create: all
   match: "**/*"
 upload_dir: content/images
