@@ -17,7 +17,7 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Configurações
+  label: Definições
 - type: document
   path: content/settings.json
   label: Ajustes
