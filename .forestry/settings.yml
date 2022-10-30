@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: https://webhook.gatsbyjs.com/hooks/data_source/ed64145f-a51e-4a2d-9b46-34c35f0b93b2
 sections:
+- type: document
+  path: content/settings.json
+  label: Ajustes
+  match: "**/*"
 - type: directory
   path: content/articles
   label: Artigos
