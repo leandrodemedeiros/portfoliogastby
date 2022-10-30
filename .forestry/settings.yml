@@ -7,10 +7,9 @@ sections:
 - type: document
   path: src/pages/index.js
   label: Index
-  match: "**/*"
 - type: directory
   path: content
-  label: Paginas
+  label: Conteudo
   create: all
   match: "**/*"
 upload_dir: content/images
