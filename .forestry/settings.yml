@@ -21,11 +21,6 @@ sections:
 - type: document
   path: content/settings.json
   label: Ajustes
-- type: directory
-  path: src
-  label: Landing
-  create: all
-  match: "**/*"
 upload_dir: content/images
 public_path: "/content/images"
 front_matter_path: ''
