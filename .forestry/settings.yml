@@ -7,7 +7,8 @@ sections:
 - type: document
   path: content/settings.json
   label: Ajustes
-  match: "**/*"
+- type: heading
+  label: Conteudo
 - type: directory
   path: content/articles
   label: Artigos
