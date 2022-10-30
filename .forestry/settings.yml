@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: https://webhook.gatsbyjs.com/hooks/data_source/ed64145f-a51e-4a2d-9b46-34c35f0b93b2
 sections:
-- type: document
-  path: content/settings.json
-  label: Ajustes
 - type: heading
   label: Conteudo
 - type: directory
@@ -19,6 +16,11 @@ sections:
   label: Seções
   create: all
   match: "**/*"
+- type: heading
+  label: Configurações
+- type: document
+  path: content/settings.json
+  label: Ajustes
 upload_dir: content/images
 public_path: "/content/images"
 front_matter_path: ''
