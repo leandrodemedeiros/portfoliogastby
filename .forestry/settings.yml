@@ -22,7 +22,7 @@ sections:
   path: content/settings.json
   label: Ajustes
 - type: directory
-  path: src/pages
+  path: src
   label: Landing
   create: all
   match: "**/*"
