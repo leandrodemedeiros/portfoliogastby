@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/fotoportfoliopb.png"
+imageSrc: "../../images/20220519_162756.jpg"
 imageAlt: Olá! Eu sou o Leandro.
 
 ---
