@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "visible": "",
+      "visible": true,
       "title": "Transformação Digital",
       "description": "Uma mudança de cultura e processos que todo negócio precisa passar para acompanhar as novas tecnologias.",
       "tags": [
@@ -13,7 +13,12 @@
         "alt": "Transformação Digital",
         "linkTo": "#"
       },
-      "links": ""
+      "links": [
+        {
+          "type": "Transformação Digital",
+          "url": "#"
+        }
+      ]
     },
     {
       "visible": true,
