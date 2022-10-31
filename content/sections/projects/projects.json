@@ -1,25 +1,42 @@
 {
   "projects": [
     {
+      "visible": "",
+      "title": "Transformação Digital",
+      "description": "Uma mudança de cultura e processos que todo negócio precisa passar para acompanhar as novas tecnologias.",
+      "tags": [
+        "Transformação digital",
+        "Consultoria"
+      ],
+      "image": {
+        "src": "/content/images/security-png.webp",
+        "alt": "Transformação Digital",
+        "linkTo": "#"
+      },
+      "links": ""
+    },
+    {
       "visible": true,
       "category": "",
       "title": "",
       "description": "",
-      "tags": [""],
+      "tags": [
+        ""
+      ],
       "image": {
-          "src": "",
-          "alt": "",
-          "linkTo": ""
+        "src": "",
+        "alt": "",
+        "linkTo": ""
       },
       "links": [
-          {
-              "type": "github",
-              "url": ""
-          },
-          {
-              "type": "external",
-              "url": ""
-          }
+        {
+          "type": "github",
+          "url": ""
+        },
+        {
+          "type": "external",
+          "url": ""
+        }
       ]
     }
   ],
