@@ -1,0 +1,32 @@
+---
+label: Projetos
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: file
+    name: src
+    label: src
+  - type: text
+    name: alt
+    label: alt
+  - type: text
+    name: caption
+    label: caption
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: keywords
+  label: keywords
