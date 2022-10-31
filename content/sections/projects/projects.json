@@ -9,7 +9,7 @@
         "Consultoria"
       ],
       "image": {
-        "src": "/content/images/security-png.webp",
+        "src": "../../images/security-png.webp",
         "alt": "Transformação Digital",
         "linkTo": "#"
       },
