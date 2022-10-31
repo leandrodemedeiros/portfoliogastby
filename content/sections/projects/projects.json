@@ -1,8 +1,27 @@
 {
   "projects": [
-    "Transformação Digital",
-    "Gestão de Produtos",
-    "Marketing Digital"
+    {
+        "visible": true,
+        // "category": "",
+        "title": "",
+        "description": "",
+        "tags": [""],
+        "image": {
+            "src": "",
+            "alt": "",
+            "linkTo": ""
+        },
+        "links": [
+            {
+                "type": "github",
+                "url": ""
+            },
+            {
+                "type": "external",
+                "url": ""
+            }
+        ]
+    }
   ],
   "button": {
     "visible": false,
