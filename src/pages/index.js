@@ -1,7 +1,7 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
+  // ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -16,7 +16,7 @@ export default function IndexPage() {
       <Seo title="Leandro de Medeiros — Portfolio" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Artigos recentes" sources={['Medium']} />
+        {/* <ArticlesSection sectionId="articles" heading="Artigos recentes" sources={['Medium']} /> */}
         <AboutSection sectionId="about" heading="Sobre mim" />
         <InterestsSection sectionId="details" heading="Habilidades e ferramentas" />
         <ProjectsSection sectionId="features" heading="O que eu faço" />
