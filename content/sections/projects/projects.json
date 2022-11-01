@@ -23,15 +23,17 @@
     {
       "visible": true,
       "category": "",
-      "title": "",
-      "description": "",
+      "title": "Gestão de Produto",
+      "description": "Identificar o interesse dos clientes alinhado com as estratégias da empresa para desenvolver melhores soluções.",
       "tags": [
-        ""
+        "Design",
+        "Gestão",
+        "Produto"
       ],
       "image": {
-        "src": "",
-        "alt": "",
-        "linkTo": ""
+        "src": "../../gestaodeproduto.png",
+        "alt": "Gestão de Produto",
+        "linkTo": "#"
       },
       "links": [
         {
