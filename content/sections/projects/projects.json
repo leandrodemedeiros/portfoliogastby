@@ -31,19 +31,12 @@
         "Produto"
       ],
       "image": {
-        "src": "../../gestaodeproduto.png",
+        "src": "../../images/gestaodeproduto.png",
         "alt": "Gestão de Produto",
-        "linkTo": "#"
+        "linkTo": ""
       },
       "links": [
-        {
-          "type": "github",
-          "url": ""
-        },
-        {
-          "type": "external",
-          "url": ""
-        }
+
       ]
     }
   ],
