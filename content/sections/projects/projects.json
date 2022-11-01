@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "visible": "",
+      "visible": true,
       "title": "Marketing Digital",
       "description": "Planejamento e implementação de campanhas de Google Ads, palavras-chave para o público-alvo e objetivos, estrutura de anúncios e grupos de anúncios. Gestão de tráfego pago com o Gerenciador de Anúncios no Facebook e Instagram.",
       "tags": [
@@ -14,7 +14,12 @@
         "alt": "Marketing Digital",
         "linkTo": ""
       },
-      "links": ""
+      "links": [
+        {
+          "type": "Gestão de Produto",
+          "url": "#"
+        }
+      ]
     },
     {
       "visible": true,
