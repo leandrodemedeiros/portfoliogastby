@@ -1,6 +1,22 @@
 {
   "projects": [
     {
+      "visible": "",
+      "title": "Marketing Digital",
+      "description": "Planejamento e implementação de campanhas de Google Ads, palavras-chave para o público-alvo e objetivos, estrutura de anúncios e grupos de anúncios. Gestão de tráfego pago com o Gerenciador de Anúncios no Facebook e Instagram.",
+      "tags": [
+        "Marketing Digital",
+        " Google Ads",
+        "Gestão de Trafego"
+      ],
+      "image": {
+        "src": "../../images/marketingdigital.png",
+        "alt": "Marketing Digital",
+        "linkTo": ""
+      },
+      "links": ""
+    },
+    {
       "visible": true,
       "title": "Transformação Digital",
       "description": "Uma mudança de cultura e processos que todo negócio precisa passar para acompanhar as novas tecnologias.",
