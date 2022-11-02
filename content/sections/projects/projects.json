@@ -19,7 +19,8 @@
           "type": "Marketing Digital",
           "url": "#"
         }
-      ]
+      ],
+      "category": "Consultoria"
     },
     {
       "visible": true,
@@ -39,11 +40,12 @@
           "type": "Transformação Digital",
           "url": "#"
         }
-      ]
+      ],
+      "category": "Consultoria"
     },
     {
       "visible": true,
-      "category": "",
+      "category": "Consultoria",
       "title": "Gestão de Produto",
       "description": "Identificar o interesse dos clientes alinhado com as estratégias da empresa para desenvolver melhores soluções.",
       "tags": [
