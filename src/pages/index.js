@@ -25,3 +25,12 @@ export default function IndexPage() {
     </>
   );
 }
+
+<style>
+  .gatsby-image-wrapper{
+    background: rgba(236, 236, 236, 0.08);
+    border-top: 1px solid rgba(255,255,255, 0.5);
+    border-left: 1px solid rgba(255,255,255, 0.5);
+    Background-filter: blur(5px);
+  }
+</style>
