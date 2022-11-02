@@ -25,11 +25,3 @@ export default function IndexPage() {
     </>
   );
 }
-
-  $(document).ready(function(){
-  $(".gatsby-image-wrapper").css({
-    "background": "rgba(236, 236, 236, 0.08)",
-    "border-top": "1px solid rgba(255,255,255, 0.5)",
-    "border-left": "1px solid rgba(255,255,255, 0.5)",
-  });
-});
