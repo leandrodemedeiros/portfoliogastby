@@ -1,0 +1,12 @@
+stackbitVersion: ~0.5.0
+ssgName: gatsby
+nodeVersion: '16'
+cmsName: git
+
+modelsSource:
+  type: 
+
+models:
+  page:
+    type: page
+    urlPath: '/{slug}'
